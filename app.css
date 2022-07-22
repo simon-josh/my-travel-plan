@@ -11,13 +11,13 @@ html {
 
 body {
     display: flex;
-    margin: 0;
+    margin: auto;
     height: 100%;
 }
 
 .container {
     margin: auto;
-    padding: 1em;
+    padding: 1.5em;
     width: 80%;
 }
 
